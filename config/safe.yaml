@@ -1,0 +1,17 @@
+investor_user:
+  host: http://api.lemonban.com/futureloan
+  mobile_phone: 13168002686
+  pwd: 12345678
+admin_user:
+  mobile_phone: 18925213848
+  pwd: 12345678
+loan_user:
+  mobile_phone: 18925213847
+  pwd: 12345678
+db:
+  host: 8.129.91.152
+  port: 3306
+  user: "future"
+  password: "123456"
+  database: "futureloan"
+  charset: "utf8"

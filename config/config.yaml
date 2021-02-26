@@ -1,0 +1,9 @@
+host: http://api.lemonban.com/futureloan
+
+logger:
+  File: "tests.log"
+  Logger_Name: 'py36'
+  Logger_Level: 'DEBUG'
+  Hand_Level: 'INFO'
+  File_Hand_Level: 'INFO'
+
